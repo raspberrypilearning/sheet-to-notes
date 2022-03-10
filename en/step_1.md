@@ -4,14 +4,11 @@ The coding system uses a **letter** to represent the musical note and a **number
 
 ![A musical score with a middle C placed on the grand stave.](images/middle-c.png)
 
-For example, the **middle C** (see above) is at the centre of the grand stave and uses the code `c4`.
-
-+ A **high C** uses the code `c5`
-+ A **low C** uses the code `c3`
+For example, the **middle C** (above) is at the centre of the grand stave and uses the code `c4`.
 
 When you go up the grand stave, the number increases. When you go down the grand stave, the number decreases. 
 
-![A musical score showing the notes C, D, E and F.](images/cdef-cdef.png)
+![A musical score showing the notes going up and down the stave.](images/cdef-cdef.png)
 
 **Representing sharps**
 
