@@ -1,10 +1,10 @@
-The `picozero` library allows you to enter real musical notes to make tunes to play on your speaker. A coding system has been created to help you with this. 
+The `picozero` library allows you to enter real musical notes to make tunes to play on your speaker. 
 
-The coding system uses a **letter** to represent the musical note and a **number** to represent where the note appears on the grand stave (staff). 
+A **letter** is used to represent the musical note and a **number** is used to represent where the note appears on the grand stave (staff). 
 
 ![A musical score with a middle C placed on the grand stave.](images/middle-c.png)
 
-For example, the **middle C** (above) is at the centre of the grand stave and uses the code `c4`.
+For example, the **middle C** (above) is at the centre of the grand stave and uses `c4`.
 
 When you go up the grand stave, the number increases. When you go down the grand stave, the number decreases. 
 
@@ -12,7 +12,7 @@ When you go up the grand stave, the number increases. When you go down the grand
 
 **Representing sharps**
 
-Your musical score might include notes that are **sharps**. These are represented using a `#` symbol. In the example below, the first note is a C sharp. The code for this is `c#4`. 
+Your musical score might include notes that are **sharps**. These are represented using a `#` symbol. In the example below, the first note is a C sharp. A C sharp is `c#4`. 
 
 ![A musical score showing notes that are sharps.](images/sharp-notes.png)
 
