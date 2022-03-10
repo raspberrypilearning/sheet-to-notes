@@ -11,14 +11,16 @@ For example, the **middle C** (see above) is at the centre of the grand stave an
 
 When you go up the grand stave, the number increases. When you go down the grand stave, the number decreases. 
 
+![A musical score showing the notes C, D, E and F.](images/cdef-cdef.png)
+
 **Representing sharps**
 
-Your musical score might include notes that are sharps. These are represented using a `#` symbol. In the example below, the first not is a C sharp. The code for this is `c#4`. 
+Your musical score might include notes that are **sharps**. These are represented using a `#` symbol. In the example below, the first note is a C sharp. The code for this is `c#4`. 
 
 ![A musical score showing notes that are sharps.](images/sharp-notes.png)
 
 **Representing flats**
 
-Your musical score might include notes that are flats. These are **also** represented using a `#` because the library doesn't have a specific code for flats. 
+Your musical score might include notes that are **flats**. These are **also** represented using a `#` because the library doesn't have a specific code for flats. Turn a flat into a sharp you need to go up the scale. 
 
-![A musical score showing notes that are flats.](images/sharp-notes.png)
+![A musical score showing notes that are flats.](images/flat-notes.png)
