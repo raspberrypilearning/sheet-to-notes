@@ -21,6 +21,11 @@ Your musical score might include notes that are **sharps**. These are represente
 
 **Representing flats**
 
-Your musical score might include notes that are **flats**. These are **also** represented using a `#` because the library doesn't have a specific code for flats. Turn a flat into a sharp you need to go up the scale. 
+Your musical score might include notes that are **flats**. These are **also** represented using a `#` because the library doesn't have a specific code for flats. To turn a flat into a sharp you need to go down the scale. 
+
+A **D flat** becomes a **C sharp**
+An **E flat** becomes a **D sharp**
+A **G flat** becomes an **F sharp**
+An **A flat** becomes a **G sharp**
 
 ![A musical score showing notes that are flats.](images/flat-notes.png)
