@@ -1,10 +1,10 @@
-The `picozero` library allows you to enter real musical notes to make tunes to play on your speaker.
+Met de `picozero` bibliotheek kun je echte muzieknoten invoeren om deuntjes te maken die op je luidspreker kunnen worden afgespeeld.
 
-A **letter** is used to represent the musical note and a **number** is used to represent where the note appears on the grand stave (staff).
+Een **letter** wordt gebruikt om de muzieknoot weer te geven en een **cijfer** wordt gebruikt om aan te geven waar de noot op de grote notenbalk verschijnt.
 
 ![A musical score with a middle C placed on the grand stave.](images/middle-c.png)
 
-For example, the **middle C** (above) is at the centre of the grand stave and uses `c4`.
+De **middelste C** (hierboven) bevindt zich bijvoorbeeld in het midden van de grote notenbalk en gebruikt als code `c4`.
 
 When you go up the grand stave, the number increases. When you go down the grand stave, the number decreases.
 
