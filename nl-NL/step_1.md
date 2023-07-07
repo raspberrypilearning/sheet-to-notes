@@ -1,12 +1,12 @@
 Met de `picozero` bibliotheek kun je echte muzieknoten invoeren om deuntjes te maken die op je luidspreker kunnen worden afgespeeld.
 
-Een **letter** wordt gebruikt om de muzieknoot weer te geven en een **cijfer** wordt gebruikt om aan te geven waar de noot op de grote notenbalk verschijnt.
+Een **letter** wordt gebruikt om de muzieknoot weer te geven en een **getal** wordt gebruikt om aan te geven waar de noot op de grote notenbalk verschijnt.
 
 ![Een partituur met een middelste C op de grote notenbalk.](images/middle-c.png)
 
 De **middelste C** (hierboven) bevindt zich bijvoorbeeld in het midden van de grote notenbalk en gebruikt als code `c4`.
 
-Wanneer je in de grote notenbalk hogere toon kiest dan neemt het nummer toe. Wanneer je in de grote notenbalk lagere toon kiest dan neemt het nummer af.
+Wanneer je in de grote notenbalk een hogere toon kiest dan neemt het getal toe. Wanneer je in de grote notenbalk lagere toon kiest dan neemt het getal af.
 
 ![Een muziekpartituur die hoge en lage noten laat zien in de notenbalk.](images/cdef-cdef.png)
 
