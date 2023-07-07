@@ -18,11 +18,11 @@ Je partituur kan noten bevatten die **kruizen** zijn. Deze worden weergegeven me
 
 **Weergeven van mollen**
 
-Your musical score might include notes that are **flats**. Dit wordt **ook** weergegeven met een `#` omdat de bibliotheek geen specifieke code voor mollen heeft. Om een mol in een kruis te veranderen moet je de code voor het naastliggende lagere kruis gebruiken.
+Je partituur kan noten bevatten die **mollen** zijn. Dit wordt **ook** weergegeven met een `#` omdat de bibliotheek geen specifieke code voor mollen heeft. Om een mol in een kruis te veranderen moet je de code voor het naastliggende lagere kruis gebruiken.
 
-+ A **D flat** becomes a **C sharp** or `c#4`
-+ An **E flat** becomes a **D sharp** or `d#4`
-+ A **G flat** becomes an **F sharp** or `f#4`
++ Een **D mol** wordt een **Cis** of `c#4`
++ Een **E mol** wordt een **D kruis** of `d#4`
++ Een **G mol** wordt een **Fis** of `f#4`
 + Een **A mol** wordt een **G kruis** of `g#4`
 
 ![Een partituur met noten die kruizen zijn.](images/flat-notes.png)
