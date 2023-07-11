@@ -1,0 +1,10 @@
+
+title: Transformer une partition en notes
+hero_image: images/banner.png
+description: Instructions sur la façon de transformer une partition en notes dans MicroPython en utilisant picozero
+version: 4
+listed: false
+copyedit: false
+last_tested: "2022-03-10"
+steps:
+  - title: Transformer une partition en notes
